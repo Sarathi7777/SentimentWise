@@ -86,7 +86,7 @@ sentiment-scope/
 
 ## 👨‍💻 Author
 
-**Midlaj Muhammed**
+**Sarathi**
 - GitHub: [@sarathi7777](https://github.com/Sarathi7777/)
 
 
@@ -141,4 +141,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check issu
 This project is open source and available under the MIT License.
 
 ---
-Created with ❤️
+Created with Pure ❤️

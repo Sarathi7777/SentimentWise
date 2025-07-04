@@ -2,7 +2,7 @@
 
 SentimentWise is a modern web application for analyzing sentiment across different sources - URLs, hashtags, and text. Built with Next.js, FastAPI, and TextBlob, it features a beautiful dark theme UI with glass morphism effects.
 
-🌐 **[Live Demo](https://sentiment-scope-ten.vercel.app/)**
+🌐 **[Live Demo](https://sentiment-wise.vercel.app/)**
 
 
 ## ✨ Features
@@ -26,8 +26,8 @@ SentimentWise is a modern web application for analyzing sentiment across differe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/midlaj-muhammed/SentimentScope.git
-   cd sentiment-scope
+   git clone https://github.com/Sarathi7777/SentimentWise.git
+   cd SentimentWise
    ```
 
 2. Install frontend dependencies:
@@ -87,13 +87,8 @@ sentiment-scope/
 ## 👨‍💻 Author
 
 **Midlaj Muhammed**
-- GitHub: [@midlaj-muhammed](https://github.com/midlaj-muhammed)
+- GitHub: [@sarathi7777](https://github.com/Sarathi7777/)
 
-## 🙏 Acknowledgments
-
-- TextBlob for sentiment analysis
-- Next.js team for the amazing framework
-- The open source community
 
 ### Running the Application
 
@@ -146,4 +141,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check issu
 This project is open source and available under the MIT License.
 
 ---
-Created with ❤️ for IBM Project
+Created with ❤️

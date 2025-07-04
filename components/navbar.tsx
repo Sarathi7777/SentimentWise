@@ -22,9 +22,9 @@ export default function Navbar() {
           <Link href="/analyze/hashtag" className="text-sm text-gray-300 hover:text-white transition-colors">
             Hashtag Analysis
           </Link>
-          <Link href="/analyze/text" className="rounded-full bg-teal-600 px-4 py-1.5 text-sm font-medium text-white hover:bg-teal-500 transition-colors">
+          {/* <Link href="/analyze/text" className="rounded-full bg-teal-600 px-4 py-1.5 text-sm font-medium text-white hover:bg-teal-500 transition-colors">
             Get Started
-          </Link>
+          </Link> */}
         </div>
       </div>
     </nav>

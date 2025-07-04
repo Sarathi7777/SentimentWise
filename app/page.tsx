@@ -12,7 +12,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <div className="relative z-10 mx-auto mt-16 max-w-5xl text-center">
-        <h1 className="bg-gradient-to-b from-white to-white/70 bg-clip-text text-6xl font-bold tracking-tight text-transparent sm:text-7xl">
+        <h1 className="bg-gradient-to-b from-white to-white/70 bg-clip-text text-6xl font-bold tracking-tight text-transparent sm:text-5xl">
           Deeper Insights with
           <br />
           SentiWise

@@ -9,7 +9,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'SentimentWise',
+  title: 'SentiWise',
   description: 'Advanced sentiment analysis platform',
 }
 

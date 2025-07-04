@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className="bg-gradient-to-b from-white to-white/70 bg-clip-text text-6xl font-bold tracking-tight text-transparent sm:text-7xl">
           Deeper Insights with
           <br />
-          SentimentWise
+          SentiWise
         </h1>
         <p className="mt-6 text-lg text-gray-400">
           Never miss a sentiment, emotion, or insight in your text.

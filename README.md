@@ -1,6 +1,6 @@
-# 🎯 SentimentWise
+# 🎯 SentiWise
 
-SentimentWise is a modern web application for analyzing sentiment across different sources - URLs, hashtags, and text. Built with Next.js, FastAPI, and TextBlob, it features a beautiful dark theme UI with glass morphism effects.
+SentiWise is a modern web application for analyzing sentiment across different sources - URLs, hashtags, and text. Built with Next.js, FastAPI, and TextBlob, it features a beautiful dark theme UI with glass morphism effects.
 
 🌐 **[Live Demo](https://sentiment-wise.vercel.app/)**
 
@@ -26,8 +26,8 @@ SentimentWise is a modern web application for analyzing sentiment across differe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sarathi7777/SentimentWise.git
-   cd SentimentWise
+   git clone https://github.com/Sarathi7777/Sentiwise.git
+   cd Sentiwise
    ```
 
 2. Install frontend dependencies:

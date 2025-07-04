@@ -1,7 +1,7 @@
 ### 1. Project Breakdown  
-**App Name:** SentimentWise
+**App Name:** SentiWise
 **Platform:** Web  
-**Summary:** SentimentWise is a premium web application designed to perform sentiment analysis using Natural Language Processing (NLP). The app allows users to analyze text, URLs, and hashtags to determine sentiment and visualize the results in an interactive and visually appealing manner. With support for multiple languages, SentimentWise aims to provide a seamless and intuitive experience for users looking to gain insights into the emotional tone of their content. The app features smooth animations, a modern design, and a user-friendly interface to ensure a premium feel.  
+**Summary:** SentiWise is a premium web application designed to perform sentiment analysis using Natural Language Processing (NLP). The app allows users to analyze text, URLs, and hashtags to determine sentiment and visualize the results in an interactive and visually appealing manner. With support for multiple languages, SentiWise aims to provide a seamless and intuitive experience for users looking to gain insights into the emotional tone of their content. The app features smooth animations, a modern design, and a user-friendly interface to ensure a premium feel.  
 **Primary Use Case:** Users can input text, URLs, or hashtags to analyze sentiment, view visualizations, and export results for further analysis.  
 **Authentication Requirements:** Authentication is optional for basic usage but required for saving analysis history and accessing advanced features. Supabase Auth will handle user authentication and session management.  
 
@@ -130,4 +130,4 @@
 
 --- 
 
-This blueprint provides a comprehensive roadmap for building SentimentWise, ensuring a premium, interactive, and user-friendly experience.
+This blueprint provides a comprehensive roadmap for building SentiWise, ensuring a premium, interactive, and user-friendly experience.
